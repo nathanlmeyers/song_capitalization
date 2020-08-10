@@ -1,2 +1,2 @@
 # song_capitalization
-Snippet to calculate the percent of ALL CAPS songs on the Billboard Hot 100
+Snippet to calculate the number of 'ALL CAPS' and 'all lowercase' songs on the Billboard Hot 100 using dataset available at https://data.world/kcmillersean/billboard-hot-100-1958-2017
